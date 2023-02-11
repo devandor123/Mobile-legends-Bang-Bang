@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+.left-column {
+  float: left;
+  width: 35%;
+  text-align: center;
+}
+.right-column {
+  float: right;
+  width: 65%;
+}
+img {
+  width: 100%;
+  border: 1px solid black;
+}
